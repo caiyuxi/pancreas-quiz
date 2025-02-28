@@ -18,7 +18,7 @@ cd ..
 
 ## Preprocessing
 
-Putting the data into the data organization [specified in the nnUnet repo](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_format.md):
+Putting the data into the data organization [specified in the nnUNet repo](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_format.md):
 
 ```commandline
 nnUNet_raw/Dataset001_BRATS/
